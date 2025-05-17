@@ -1,1 +1,1 @@
-![Envoid's GitHub stats](https://github-readme-stats.vercel.app/api?username=Envo1d&show_icons=true&theme=tokyonight&include_all_commits=true&role=OWNER,COLLABORATOR,ORGANIZATION_MEMBER,MEMBER)
+![Envo1d's Stats](https://github-readme-stats.vercel.app/api?username=Envo1d&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
