@@ -5,7 +5,7 @@
       <img src="https://github-readme-stats.vercel.app/api?username=Envo1d&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Envo1d&theme=tokyonight&hide_border=false" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Envo1d&theme=tokyonight&hide_border=false&count_private=true" />
     </td>
   </tr>
 </table>
