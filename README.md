@@ -45,10 +45,13 @@ STATUS     : ONLINE ▮
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Envo1d&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BD00FF&amp;text_color=CDD6F4&amp;icon_color=00F5FF" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Envo1d&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=BD00FF&amp;text_color=CDD6F4" alt="Most used languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Envo1d&amp;theme=2077" alt="GitHub profile summary and contributions" />
 
-<img src="https://streak-stats.demolab.com?user=Envo1d&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=BD00FF&amp;fire=00F5FF&amp;currStreakLabel=00F5FF" alt="GitHub streak" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Envo1d&amp;theme=2077" alt="Top languages by repository" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Envo1d&amp;theme=2077" alt="Top languages by commit" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Envo1d&amp;theme=2077" alt="GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Envo1d&amp;theme=2077&amp;timeZone=Europe%2FKyiv" alt="Commits by time of day in Kyiv" />
 
 </div>
 
